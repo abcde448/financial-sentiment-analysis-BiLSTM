@@ -25,11 +25,6 @@ Practical for investment analysis, risk assessment, and market trend insights
 
 Demonstrates the application of deep learning and NLP in finance
 
-🚀 Getting Started
-git clone https://github.com/your-username/financial-sentiment-bilstm-attention.git
-cd financial-sentiment-bilstm-attention
-pip install -r requirements.txt
-Run the training notebook or script inside the notebooks/ directory.
 
 📬 Contact
 Md. Rabbi Hasan
