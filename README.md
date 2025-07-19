@@ -31,5 +31,6 @@ Demonstrates the application of deep learning and NLP in finance
 Md. Rabbi Hasan |
 Data Scientist
 📧arafatrabbi668@gmail.com | LinkedIn https://www.linkedin.com/in/md-rabbi-hasan-3249652b1
+Passionate about turning raw data into real-world insights through clear, compelling storytelling.
 
 
